@@ -9,8 +9,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class auto_suggestion {
-//test2
-	@Test
+
+//test21
+
+	
+@Test
 	public void method1() throws Exception{
 		FirefoxDriver driver=new FirefoxDriver();
 		driver.manage().window().maximize();
