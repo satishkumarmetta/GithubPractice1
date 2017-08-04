@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class auto_suggestion {
-//test
+//test2
 	@Test
 	public void method1() throws Exception{
 		FirefoxDriver driver=new FirefoxDriver();
