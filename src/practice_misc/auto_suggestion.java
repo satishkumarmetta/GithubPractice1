@@ -14,6 +14,8 @@ public class auto_suggestion {
 
 //test1
 
+testLocal
+
 
 	
 @Test
