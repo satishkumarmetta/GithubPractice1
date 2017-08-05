@@ -14,7 +14,7 @@ public class auto_suggestion {
 
 //test2
 
-testLocal
+testLocal1
 
 
 	
