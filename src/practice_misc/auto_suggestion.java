@@ -11,17 +11,8 @@ import org.testng.annotations.Test;
 public class auto_suggestion {
 
 
+//SATISH
 
-
-//test55555
-
-//test2
-
-
- 
-testLocal1
-testLocal
-remote change
  
 
 	
