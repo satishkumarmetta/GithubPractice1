@@ -9,6 +9,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+//Modified on GitHUb Master-For Practice
+
 public class multiple_windows {
 
 	public static void main(String args[]) throws Exception{
