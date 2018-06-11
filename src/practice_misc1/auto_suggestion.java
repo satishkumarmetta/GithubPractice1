@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 
 public class auto_suggestion {
 
+	//changed in MyLocalBranch1-Satish
 	@Test
 	public void method1() throws Exception{
 		FirefoxDriver driver=new FirefoxDriver();
